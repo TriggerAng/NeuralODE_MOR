@@ -1,0 +1,13 @@
+neural ODE：
+https://zhuanlan.zhihu.com/p/77587163
+
+Diffeq in julia:
+https://julialang.org/blog/2019/01/fluxdiffeq/
+
+Experiment:
+https://github.com/Rachnog/Neural-ODE-Experiments
+https://nbviewer.org/github/msurtsukov/neural-ode/blob/master/Neural%20ODEs.ipynb
+
+im2col:
+https://blog.csdn.net/hxxjxw/article/details/123957239
+https://blog.csdn.net/m0_45388819/article/details/120757424
